@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="class_arr">
+        <item>初一信_SG1A</item>
+<item>初一望_SG1B</item>
+<item>初一愛_SG1C</item>
+<item>初一善_SG1D</item>
+<item>初二信_SG2A</item>
+<item>初二望_SG2B</item>
+<item>初二愛_SG2C</item>
+<item>初二善_SG2D</item>
+<item>初三信_SG3A</item>
+<item>初三望_SG3B</item>
+<item>初三愛_SG3C</item>
+<item>初三善_SG3D</item>
+<item>初三樂_SG3E</item>
+<item>高一信_SC1A</item>
+<item>高一望_SC1B</item>
+<item>高一愛_SC1C</item>
+<item>高一善_SC1D</item>
+<item>高一樂_SC1E</item>
+<item>高二信_SC2A</item>
+<item>高二望_SC2B</item>
+<item>高二愛_SC2C</item>
+<item>高二善_SC2D</item>
+<item>高二樂_SC2E</item>
+<item>高三信_SC3A</item>
+<item>高三望_SC3B</item>
+<item>高三愛_SC3C</item>
+<item>高三善_SC3D</item>
+<item>高三樂_SC3E</item>
+
+    </string-array>
+</resources>

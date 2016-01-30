@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MBC_LaterRegActivity!</string>
+    <string name="app_name">MBC_LaterReg</string>
+    <string name="Wrong">違規</string>
+    <string name="classno">班別</string>
+    <string name="max_num">最大班內座號</string>
+    <string name="ok_label">確認</string>
+    <string name="ret_label">返回</string>
+    <string name="about_title">關於</string>
+    <string name="about_msg">MBC IT DEPT.</string>
+    <string name="homepage_label">HOMEPAGE</string>
+    <string name="homepage_uri">http://androidbmi.googlecode.com/</string>
+    
+    
+</resources>

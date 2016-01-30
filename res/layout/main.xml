@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+ android:layout_width="wrap_content" android:orientation="vertical"  
+ android:layout_height="wrap_content" 
+ android:id="@+id/linnerlayout">     
+<TextView  
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    android:layout_width="431dp"/>
+<TextView android:layout_height="wrap_content" android:text="@string/Wrong" android:id="@+id/textView1" android:layout_width="fill_parent"></TextView>
+<Spinner android:layout_height="wrap_content" android:id="@+id/spinner1" android:layout_width="fill_parent"></Spinner>
+<TextView android:layout_height="wrap_content" android:text="@string/classno" android:id="@+id/textView2" android:layout_width="fill_parent"></TextView>
+<Spinner android:layout_height="wrap_content" android:id="@+id/spinner2" android:layout_width="fill_parent"></Spinner>
+<TextView android:layout_height="wrap_content" android:text="@string/max_num" android:id="@+id/textView3" android:layout_width="fill_parent"></TextView>
+<EditText android:id="@+id/editText1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:inputType="number">
+    <requestFocus></requestFocus>
+</EditText>
+</LinearLayout>
